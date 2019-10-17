@@ -14,8 +14,8 @@
 ### 6.用户界面  
 <image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E5%8C%BB%E7%94%9F%E4%B8%BB%E9%A1%B5.PNG" width="280" height="400">&nbsp;&nbsp;<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E4%B8%BB%E9%A1%B5.PNG" width="250" height="400">
 ### 7.消息提醒  
-<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92.PNG" width="250" height="400">
+<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92.PNG" width="250" height="400"><br>
 ### 8.设置界面  
-<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.PNG" width="250" height="400">&nbsp;&nbsp;<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE.PNG" width="250" height="400">
+<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E4%BF%AE%E6%94%B9%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.PNG" width="250" height="400">&nbsp;&nbsp;<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE.PNG" width="250" height="400"><br>
 ### 9.咨询界面  
 <image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E5%92%A8%E8%AF%A2%E6%96%B9%E5%BC%8F.PNG" width="250" height="400">&nbsp;&nbsp;<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E8%81%8A%E5%A4%A9%E6%A1%86.PNG" width="250" height="400">
