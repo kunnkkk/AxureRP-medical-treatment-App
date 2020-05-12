@@ -2,7 +2,7 @@
 演示视频可查看，有交互动效，第一次做原型界面只是大概布了个局，可能有些简陋。  
 以下是界面截图：  
 ### 1.APP过渡页  
-<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E8%BF%87%E6%B8%A1%E9%A1%B5.PNG" width="300" height="400"><br>
+<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E8%BF%87%E6%B8%A1%E9%A1%B5.PNG" width="160" height="400"><br>
 ### 2.登录注册 
 <image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E7%99%BB%E5%BD%95.png" width="160px" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;<image src="https://github.com/kunnkkk/AxureRP-medical-treatment-App/blob/master/%E6%88%AA%E5%9B%BE/%E6%B3%A8%E5%86%8C.png" width="160px" height="300px"><br>
 ### 3.主页（推荐/关注）  
